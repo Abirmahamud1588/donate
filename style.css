@@ -4,3 +4,105 @@
     font-family: 'Open Sans', sans-serif;
 
 }
+header{
+    background-image: url('images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    padding: 16% 0%;
+}
+.text{
+    text-align: center;
+    width: 1200px;;
+    margin: auto;
+}
+.text h1{
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 4.6rem;
+    color: white;
+    margin: 0% 15%;
+}
+.text p{
+   
+        color: white;
+        font-size: 22px;
+        margin: 3% 15%;
+        line-height: 1.7em;
+    
+    
+}
+main{
+    width: 1200px;
+    margin: auto;
+}
+.dt{
+    text-align: center;
+    padding: 98px 0px;
+}
+.allh{
+
+font-size: 45px;
+
+line-height: 55px;
+
+font-weight: 700;
+
+margin-bottom: 30px;
+}
+.allp{
+
+font-size: 20px;
+
+color: #707070;
+
+margin: 0px 200px;
+
+margin-bottom: 30px;
+
+line-height: 1.6rem;
+}
+.fivebox{
+
+display: flex;
+
+justify-content: space-between;
+
+margin: 0px 200px;
+
+margin: auto;
+
+width: 70%;
+}
+.box{
+  padding: 31px;
+  border: 1px solid transparent;
+  background-color: #FAFAFA;
+}
+.box h1{
+
+font-size: 25px;
+
+color: #707070;
+}
+
+.box:hover{
+
+
+    border: 1px solid #FF5959;
+
+
+}
+.box:hover h1{
+    color: #FF5959;
+}
+.btn{
+ background-color: #FF5959;
+ padding: 20px;
+ border: none;
+ color: white;
+ font-size: 25px;
+ text-transform: capitalize;
+ border-radius: 10px;
+ margin-top: 30px;
+}
