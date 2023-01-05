@@ -106,3 +106,45 @@ color: #707070;
  border-radius: 10px;
  margin-top: 30px;
 }
+
+/* dp  */
+
+.dp{
+
+    text-align: center;
+}
+.boxmain{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    margin: 50px 0px;;
+}
+.box3{
+    background: #4F9DA61A;
+    padding: 30px 35px;
+}
+.box2{
+    background: #FF59591A;
+
+    padding: 30px 35px;
+}
+.box1{
+    background: #4F9DA61A;
+    padding: 30px 35px;
+}
+.boxh{
+
+font-size: 24px;
+
+color: #121212;
+
+margin: 14px 0px;
+}
+.boxp{
+
+font-size: 17px;
+
+line-height: 1.6rem;
+
+color: #707070;
+}
